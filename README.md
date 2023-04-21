@@ -22,7 +22,8 @@
 
 
 
-[![Diana's github stats](https://github-readme-stats.vercel.app/api?username=vamerya&count_private=true)](https://github.com/vamerya/github-readme-stats)
+[![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=vamerya&count_private=true&show_icons=true)](https://github.com/vamerya/github-readme-stats)
+
 
 
 
