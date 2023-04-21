@@ -4,7 +4,7 @@
 
 - 😄 Pronouns: she/her
 
-- 📫 How to reach me **dianaweber1902@gmail.com**
+- 📫 You can reach me via email at **dianaweber1902@gmail.com**
 
 - 🌱 I’m currently learning **Lua, Javascript, Typescript**
 
