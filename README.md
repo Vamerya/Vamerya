@@ -1,7 +1,6 @@
 <h1 align="center">Hey there, I'm Diana</h1>
 <h3 align="center">an intermediate C# programmer within Unity with a passion for illustration and music!</h3>
 
-<p align="left"> <a href="https://twitter.com/xvamerya" target="blank"><img src="https://img.shields.io/twitter/follow/xvamerya?logo=twitter&style=for-the-badge" alt="xvamerya" /></a> </p>
 
 - 😄 Pronouns: she/her
 
