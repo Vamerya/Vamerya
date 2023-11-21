@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Lua, Javascript, Typescript**
 
-- 👨‍💻 All of my projects are available at [https://dianaweber.myportfolio.com/home](https://dianaweber.myportfolio.com/home)
+- 👨‍💻 All of my projects are available [here](https://moonweaver.de)
 
 
 <h3 align="left">Connect with me:</h3>
